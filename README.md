@@ -1,6 +1,6 @@
 # Responsive Christmas Website ⛄️
-## [Watch it on youtube](https://youtu.be/HrZSQpxfIxw)
-### Responsive Christmas Website ⛄️
+
+This is not a website of my own. All credits to [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 - Responsive Christmas Website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
